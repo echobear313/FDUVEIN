@@ -6,9 +6,6 @@ We construct a high-resolution sublingual vein segmentation dataset (FDU-SV) col
 
 Our paper has been accepted to **BIBM 2020** as regular paper. 
 
-%We are going to public the source code **upon the acceptance of the paper**.
-
-
 # Dataset Details
 
 TABLE I presents the attributes of sublingual veins with various clinical labels, indicating the strong diversity of FDU-SV. Under the guidance of experienced TCM doctors, we divide the sublingual veins into ﬁve major categories by their pathological features, each of which is detailed into about 3 to 4 subcategories. TABLE I gives detailed information about the FDU-SV dataset with the pathological categories of sublingual veins, the description of different IDs, and their amount. Note that for a single sublingual vein, it may be divided into multiple categories but only one subcategory in each category. Fig 3 shows several images from FDU-SV. Besides, as shown in Fig 1, the tongue in images is also annotated although we only focus on sublingual segmentation in this paper. In the future, we are going to study an end-to-end TCM remote diagnosis system based on the well-annotated FDU-SV dataset.
