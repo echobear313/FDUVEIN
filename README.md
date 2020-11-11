@@ -4,9 +4,9 @@ We construct a high-resolution sublingual vein segmentation dataset (FDU-SV) col
 
 # Code
 
-Our paper has been submitted to **BIBM 2020**. 
+Our paper has been accepted to **BIBM 2020** as regular paper. 
 
-We are going to public the source code **upon the acceptance of the paper**.
+%We are going to public the source code **upon the acceptance of the paper**.
 
 
 # Dataset Details
