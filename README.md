@@ -4,7 +4,7 @@ We construct a high-resolution sublingual vein segmentation dataset (FDU-SV) col
 
 # Code
 
-Our paper has been accepted to **BIBM 2020** as regular paper. 
+Our paper has been accepted by **BIBM 2020** as regular paper. 
 
 # Dataset Details
 
