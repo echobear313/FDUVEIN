@@ -1,0 +1,2 @@
+numba==0.51.0
+hausdorff==0.2.5
